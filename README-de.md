@@ -1,12 +1,12 @@
 # Datenstrom Yellow
 
-Datenstrom Yellow is for people who make small websites.
+Datenstrom Yellow ist für Menschen die kleine Webseiten machen.
 
-1. [Download Datenstrom Yellow and unzip it](https://github.com/datenstrom/yellow/archive/master.zip).
-2. Copy all files to your web server.
-3. Open your website in a web browser.
+1. [Datenstrom Yellow herunterladen und entpacken](https://github.com/datenstrom/yellow/archive/master.zip).
+2. Kopiere alle Dateien auf deinen Webserver.
+3. Öffne deine Webseite in einem Webbrowser.
 
-Do you have questions? [Get help](https://datenstrom.se/yellow/help/) and [contribute](https://datenstrom.se/yellow/help/contributing-guidelines).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/) und [mitmachen](https://datenstrom.se/de/yellow/help/contributing-guidelines).
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/source/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
